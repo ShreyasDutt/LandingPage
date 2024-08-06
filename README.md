@@ -10,7 +10,7 @@ This is a simple and responsive landing page built using React and Tailwind CSS.
 
 ## Demo
 
-You can view a live demo of the landing page [here](#).
+You can view a live demo of the landing page [here](https://worquelandingpage.netlify.app/).
 
 ## Installation
 
