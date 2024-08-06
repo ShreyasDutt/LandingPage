@@ -20,3 +20,28 @@ To get a local copy of the project up and running, follow these steps:
 
    ```bash
    git clone https://github.com/ShreyasDutt/LandingPage.git
+
+2. **Navigate to the project directory:**
+
+   ```bash
+   cd LandingPage
+
+3. **Install dependencies:**
+
+   ```bash
+   npm install
+   
+4. **Usage:**
+
+   ```bash
+   npm run dev
+
+   # Contact
+
+**Shreyas Dutt**
+
+- **GitHub**: [@ShreyasDutt](https://github.com/ShreyasDutt)
+- **Email**: [shreyas.dutt@student.ufv.ca](mailto:shreyas.dutt@student.ufv.ca)
+
+Feel free to reach out if you have any questions or need further assistance!
+
